@@ -4,17 +4,14 @@
       <tittle>"Ejercicio de Introducción a HTML en OpenBootcamp"</tittle>
      </head>
 <body>
-         <!-- Este es mi primer comentario de dos líneas
-
--->
-<!--Aprendiendo a documentar mi código con OpenBootcamp-->
+         <!-- Este es mi primer comentario de dos líneas-->
+         <!--Aprendiendo a documentar mi código con OpenBootcamp-->
     <ul>
         <li><a href="https://youtu.be/1lyu1KKwC74"</a>The Verve - Bitter Sweet Symphony</li>
         
          <li><a href="https://youtu.be/Mqx2X0XKlQ4"</a>Edelbrook - Talking </li>
          
-          <li><a href="https://youtu.be/qKsVoTOSbuE"</a>Hybrid - Finished Symphony (Deadmau5 Remix)</li>
-              
+          <li><a href="https://youtu.be/qKsVoTOSbuE"</a>Hybrid - Finished Symphony (Deadmau5 Remix)</li>      
     </ul>
 
 </body>
