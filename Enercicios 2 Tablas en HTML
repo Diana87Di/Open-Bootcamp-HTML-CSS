@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+    <html>
+
+        <head>
+            <title>Ejercicio 02/2 - Tablas en HTML</title>
+        </head>
+
+            <body>
+                <table>
+                    <tr>
+                        <th>Titulo</th>
+                        <th>Autor</th>
+                        <th>Año de Publicacion</th>
+                        <th>Enlace Amazon</th>
+                    </tr>
+
+                    <tr>
+                        <td>Programacion en C</td>
+                        <td>Byron Gottfried</td>
+                        <td>1997</td>
+                        <td><a href="https://www.amazon.com/Programacion-En-Spanish-Byron-Gottfried/dp/8448110684">Click de compra</a></td>
+                    </tr>
+                    <tr>
+                        <td>El Codigo de Da Vinci</td>
+                        <td>Dan Brown</td>
+                        <td>2007</td>
+                        <td><a href="https://www.amazon.com/-/es/Dan-Brown/dp/8496829006">Click de compra</a></td>
+
+                    </tr>
+                    </tr>
+                        <td>La fuerza de Sheccid</td>
+                        <td>Carlos Cuauhtémoc Sánchez</td>
+                        <td>1996</td>
+                        <td><a href="https://www.amazon.com/-/es/Carlos-Cuauhtemoc-Sanchez/dp/8480231262">Click de compra</a></td>
+                    </tr>
+                </table>
+            </body>
+    </html>
